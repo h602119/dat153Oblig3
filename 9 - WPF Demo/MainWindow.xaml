@@ -1,0 +1,36 @@
+﻿<Window x:Class="_8___WPF_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_8___WPF_Demo"
+        mc:Ignorable="d"
+        Title="Student Side" Height="450" Width="800">
+    <Grid>
+        <ListView Name="studentList" ItemsSource="{Binding}" Margin="0,66,10,0" MouseDoubleClick="StudentList_OnMouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Width="100" Header="Student" DisplayMemberBinding="{Binding Path=studentname}"></GridViewColumn>
+                        <GridViewColumn Width="100" Header="ID" DisplayMemberBinding="{Binding Path=id}"></GridViewColumn>
+                        <GridViewColumn Width="100" Header="Age" DisplayMemberBinding="{Binding Path=studentage}"></GridViewColumn>
+                        <GridViewColumn Width="100" Header="Course" DisplayMemberBinding="{Binding Path=tempCourse}"></GridViewColumn>
+                        <GridViewColumn Width="100" Header="Grade" DisplayMemberBinding="{Binding Path=tempGrade}"></GridViewColumn>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox Name="SearchField" HorizontalAlignment="Left" Height="23" Margin="118,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+        <Button Name="SearchButton" Content="Search" HorizontalAlignment="Left" Margin="255,23,0,0" VerticalAlignment="Top" Width="75" Click="SearchButton_Click"/>
+        <Button Name="AddStudButton" Content="Edit Student" HorizontalAlignment="Left" Margin="7,6,0,0" VerticalAlignment="Top" Width="75" Click="AddButton_Click"/>
+        <Button Name="FailedButton" Content="Failed Students" HorizontalAlignment="Left" Margin="693,19,0,0" VerticalAlignment="Top" Width="88" Click="FailedButton_Click"/>
+        <Button Name="EditCourseButton" Content="Edit Course" HorizontalAlignment="Left" Margin="7,38,0,0" VerticalAlignment="Top" Width="75" Click="EditCourseButton_Click"/>
+
+        <ComboBox Name="courseList" ItemsSource="{Binding}" SelectedItem="{Binding Path=coursename}" HorizontalAlignment="Left" Margin="383,30,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="courseList_SelectionChanged" />
+        <ComboBox Name="gradeList" ItemsSource="{Binding}" SelectedItem="{Binding Path=grade1}"  HorizontalAlignment="Left" Margin="535,29,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="gradeList_SelectionChanged" />
+        <TextBlock HorizontalAlignment="Left" Margin="384,9,0,0" TextWrapping="Wrap" Text="Course:" VerticalAlignment="Top" Width="43"/>
+        <TextBlock HorizontalAlignment="Left" Margin="536,8,0,0" TextWrapping="Wrap" Text="Grade:" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\bin\Debug\8 - WPF Demo.exe.config
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\bin\Debug\8 - WPF Demo.exe
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\bin\Debug\8 - WPF Demo.pdb
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\bin\Debug\EntityFramework.dll
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\bin\Debug\EntityFramework.xml
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\09 - WPF Demo.csproj.AssemblyReference.cache
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\09 - WPF Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\Editor.g.cs
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\MainWindow.g.cs
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\App.g.cs
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\8 - WPF Demo_Content.g.cs
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\8 - WPF Demo_MarkupCompile.cache
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\8 - WPF Demo_MarkupCompile.lref
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\Editor.baml
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\MainWindow.baml
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\8 - WPF Demo.g.resources
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\_8___WPF_Demo.Properties.Resources.resources
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\09 - WPF Demo.csproj.GenerateResource.cache
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\09 - WPF Demo.csproj.CoreCompileInputs.cache
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\09 - WPF Demo.csproj.CopyComplete
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\8 - WPF Demo.exe
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\8 - WPF Demo.pdb
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\CourseEditor.g.cs
+C:\Users\henva\Desktop\Lecture 23 - Linq and Databases 2\9 - WPF Demo\obj\Debug\CourseEditor.baml
